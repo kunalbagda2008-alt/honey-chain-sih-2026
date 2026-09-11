@@ -1,29 +1,29 @@
-# HONEY CHAIN - Blockchain Honey Traceability System
+# Welcome to your Lovable project
 
-SIH 2026 prototype by Team Brain Hustlers.
+This project was built with [Lovable](https://lovable.dev).
 
-A full-stack prototype website demonstrating live hive monitoring, batch registration, honey testing, blockchain verification, and QR-based tracking.
+## Build with Lovable
 
-## Modules
+Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
-1. Live Hive Monitoring (IoT Dashboard)
-2. Batch Registration (Beekeeper App)
-3. Honey Testing (Lab Dashboard)
-4. Blockchain Verification (Smart Contract Layer)
-5. QR Based Tracking (Consumer Verification)
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
 
-## Tech Stack
+## Development
 
-- TanStack Start
-- React 19 + TypeScript
-- Tailwind CSS v4
-- Vite
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-## Getting Started
-
-```bash
-bun install
-bun dev
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
 ```
 
-Open [http://localhost:8080](http://localhost:8080) to view the prototype.
+## Built with
+
+- TanStack Start
+- TypeScript
+- React
+- Tailwind CSS
